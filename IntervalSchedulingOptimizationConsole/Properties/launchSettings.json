@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IntervalSchedulingOptimization": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\maximiliano.pazo\\source\\repos\\IntervalSchedulingOptimization\\Data\\facthos1.json 2023-12-18 2023-12-18"
+    }
+  }
+}
